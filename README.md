@@ -19,3 +19,5 @@
 ## 说明
 
 可以先训练模型把模型实例序列化到文本中，下次直接读入文本的实例，避免每次执行程序都要再训练一次（确实比较慢）。
+
+artical: https://www.freebuf.com/articles/network/131279.html
